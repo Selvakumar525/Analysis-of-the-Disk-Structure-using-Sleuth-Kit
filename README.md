@@ -18,7 +18,7 @@ Sleuth Kit Disk Analysis Commands
 ### Step1:
 
   ●	Run command prompt as administrator
-  ![image](https://github.com/user-attachments/assets/c6e03690-2da1-453d-96c4-30dc60274c1d)
+![image](https://github.com/user-attachments/assets/88d50e21-5d20-4d07-a8c4-3635496388a1)
 
 ### Step2:
 
