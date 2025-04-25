@@ -1,4 +1,6 @@
 # Analysis-of-the-Disk-Structure-using-Sleuth-Kit
+### Reg.No : 212222110042
+### Name : Selva Kumar A
 ## AIM:
 To analyze the disk structure of a given disk image using Sleuth Kit tools in Kali Linux.
 
@@ -18,17 +20,16 @@ Sleuth Kit Disk Analysis Commands
 ### Step1:
 
   ●	Run command prompt as administrator
-![image](https://github.com/user-attachments/assets/88d50e21-5d20-4d07-a8c4-3635496388a1)
-
+![image](https://github.com/user-attachments/assets/bd21d2af-5008-4fc6-958d-1798ce5a7ec7)
 ### Step2:
 
   ●	Verify Sleuthkit is installed.
-  ![image](https://github.com/user-attachments/assets/504edd66-9700-490f-b6c5-878d5ccba681)
-
+  ![image](https://github.com/user-attachments/assets/bf20532e-f466-4d2b-a15e-8f90a7a411ea)
+  
 ### Step3:
 
   ●	Navigate to the binary file of Sleuthkit in command prompt: 
-  ![image](https://github.com/user-attachments/assets/5e792732-51f0-4b7f-b299-cc21699104e8)
+![image](https://github.com/user-attachments/assets/acfda227-a9af-4b6e-9614-289d7f6b340c)
 
 ## PROCEDURE:
 ## ANALYSE THE FILE USING SLEUTHKIT TOOL:
